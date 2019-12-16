@@ -1,0 +1,24 @@
+/* 版心 */
+.container{
+    width: 1200px;
+     margin:0 auto;
+
+}
+/* 添加浮动 */
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+/* 清除浮动 */
+.clearfix::after{
+    content: "";
+    height: 0;
+    display: block;
+    clear: both;
+}
+/* 首页小标题 */
+
+
+
